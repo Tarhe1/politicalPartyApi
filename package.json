@@ -1,0 +1,19 @@
+{
+  "name": "politicalpartyapi",
+  "version": "1.0.0",
+  "description": "Simple Node/Express API backend for political parties, their  candidates and the offices they are running for",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarhe1/politicalPartyApi.git"
+  },
+  "author": "Obatarhe otughwor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tarhe1/politicalPartyApi/issues"
+  },
+  "homepage": "https://github.com/Tarhe1/politicalPartyApi#readme"
+}
